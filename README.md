@@ -33,7 +33,7 @@ Diagnosing PD based on medical observations is subjective and prone to misclassi
 
    ```bash
 
-   git clone https://github.com/yourusername/parkinsons-detection.git
+   git clone https://github.com/vvsndattasailingam/Parkinsons-Disease-Detection-.git
 
    ```
 
